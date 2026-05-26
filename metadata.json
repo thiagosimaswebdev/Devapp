@@ -1,0 +1,6 @@
+{
+  "name": "DevEstudos",
+  "description": "Organize seus estudos e trace seu caminho de dev iniciante até dev júnior, priorizando seus aprendizados de forma inteligente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
